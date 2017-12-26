@@ -1,0 +1,6 @@
+c:\Users\djoni\source\repos\Xml-Dz\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\Users\djoni\source\repos\Xml-Dz\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\Users\djoni\source\repos\Xml-Dz\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\Users\djoni\source\repos\Xml-Dz\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\djoni\source\repos\Xml-Dz\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\Users\djoni\source\repos\Xml-Dz\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,9 @@
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\bin\Debug\Xml-Dz.exe.config
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\bin\Debug\Xml-Dz.exe
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\bin\Debug\Xml-Dz.pdb
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\bin\Debug\ClassLib.dll
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\bin\Debug\ClassLib.pdb
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\obj\Debug\Xml-Dz.csprojResolveAssemblyReference.cache
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\obj\Debug\Xml-Dz.csproj.CoreCompileInputs.cache
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\obj\Debug\Xml-Dz.exe
+c:\users\djoni\source\repos\Xml-Dz\Xml-Dz\obj\Debug\Xml-Dz.pdb
